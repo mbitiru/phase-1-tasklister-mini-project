@@ -17,8 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 //createTodo
 function handleToDo (newtask) {
   let listItem = document.createElement("li");
-  let btn = document.createElement('button')
-};
+  let btn = document.createElement('button');
 
 //addEventListener
  btn.addEventListener('click',handleDelete)
